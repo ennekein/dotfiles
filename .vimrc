@@ -154,7 +154,7 @@ set backupdir=~/.vim/swap//,.,/tmp
 set directory=~/.vim/swap//,.,/tmp
 
 " automatically create folds, open all folds
-set foldmethod=syntax
+set foldmethod=indent
 set foldlevelstart=99
 
 " any buffer can be hidden (keeping its changes) without first writing the 
